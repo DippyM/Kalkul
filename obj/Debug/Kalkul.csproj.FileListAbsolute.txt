@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\Kalkul\obj\Debug\Kalkul.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\Kalkul\obj\Debug\Kalkul.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\Kalkul\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\Kalkul\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\Kalkul\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\Kalkul\obj\Debug\Kalkul_MarkupCompile.cache
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\Kalkul\obj\Debug\Kalkul.g.resources
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\Kalkul\obj\Debug\Kalkul.Properties.Resources.resources
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\Kalkul\obj\Debug\Kalkul.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\Kalkul\obj\Debug\Kalkul.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\Kalkul\bin\Debug\Kalkul.exe.config
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\Kalkul\bin\Debug\Kalkul.exe
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\Kalkul\bin\Debug\Kalkul.pdb
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\Kalkul\obj\Debug\Kalkul.exe
+C:\Users\Administrator\Documents\--PROJEKTY--\BEST\Kalkul\obj\Debug\Kalkul.pdb
