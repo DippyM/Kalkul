@@ -12,6 +12,8 @@ Tato aplikace je vědecká kalkulačka vytvořená v technologii WPF v jazyce C#
 - Zobrazení předchozí operace
 - Paměť pro ukládání výpočtů
 
+![Ukázka Kalkulačky](./Uka1.png)
+
 ## Technologie
 
 - **C#**
